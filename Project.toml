@@ -1,0 +1,10 @@
+name = "SimpleCNN"
+uuid = "83644984-b960-4c2e-9998-00ce9824b01e"
+authors = ["Raphael Fouassier <ntimeu@ntimeu.fr>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
